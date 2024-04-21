@@ -1,1 +1,1 @@
-# goit-js-hw-01
+https://maciejbr.github.io/goit-js-hw-01/
